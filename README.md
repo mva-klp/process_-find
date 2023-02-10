@@ -2,7 +2,7 @@ Web server with the function of searching for processes in the task manager.
 return 0 or 1
 
 
-0 - the process is not running
+0 - the process is not running  
 1 - working process
 
 
